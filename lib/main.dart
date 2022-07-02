@@ -25,7 +25,7 @@ List<VroomJob> jobs = [
 
 /// 7. List of vehicles, we will pass only one vehicle as that's our requirement.
 /// The start coordinates must be an coordinate from the Job list otherwise
-/// Un-found route(s) from location [49.226190;20.426000] Code: 500 will be thrown.
+/// Un-found route(s) from location [x;y] Code: 500 will be thrown.
 List<VroomVehicle> vehicles = [
   const VroomVehicle(
       id: 1,
