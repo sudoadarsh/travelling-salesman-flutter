@@ -1,6 +1,6 @@
 # route_optimisation
 
-A new Flutter project.
+This project uses open_route_service package to achieve route optimisation or the travelling salesman problem.
 
 ## Getting Started
 
